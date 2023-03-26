@@ -1,16 +1,54 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ʜᴇʟʟᴏ+ᴍʏ+ɴᴀᴍᴇ+ɪꜱ+ɴᴏʙɪᴛᴀ+!;ᴀɴᴅ+ᴍʏ+ᴛᴇᴀᴍ+ɪꜱ+ɴᴏʙɪ+ᴅᴇᴠᴇʟᴏᴘᴇʀ+!)
+</p>
 
-<!--
-**NobiDeveloper/NobiDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝙉𝙤𝙗𝙞  𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧">
+</p>
+<h1 align="center">
+  𝙉𝙤𝙗𝙞  𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
+</h1>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on [Tg Bot](https://telegram.dog/BotszList)
+
+- 🌱 I’m currently learning **python, java**
+
+- 🤝 I’m looking for help with **Dev**
+
+- 👨‍💻 All of my projects are available [here](https://youtube.com/@MovieVillaYT)
+
+- 💬 Ask me about **Bot issues**
+
+- ⚡ Fun fact **I think i am funny 😁**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+
+## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobiDeveloper&show_icons=true&locale=en&layout=compact" alt="NobiDeveloper" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NobiDeveloper&show_icons=true&locale=en" alt="NobiDeveloper" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NobiDeveloper&" alt="NobiDeveloper" /></p>
+
+### DONATE 👇
+
+![DONATE](https://telegra.ph/file/ce73268678bc5ff13c588.jpg)
+
+<h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
+</p>
+<p align="center">
+<a href="https://www.instagram.com/NobiDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.telegram.dog/NobiDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/@NobiDeveloper"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+<br>
+<br>
+<p align="center">
+𝚃𝙷𝙰𝙽𝙺𝚈𝙾𝚄 𝙵𝙾𝚁 𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
+</p>
