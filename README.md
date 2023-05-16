@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on [Tg Bot](https://telegram.dog/BotszList)
+- 🔭 I’m currently working on [Tg Bot](https://telegram.me/BotszList)
 
 - 🌱 I’m currently learning **python, java**
 
@@ -44,7 +44,7 @@
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
 <p align="center">
-<a href="https://www.instagram.com/NobiDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.telegram.dog/NobiDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.instagram.com/NobiDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.telegram.me/NobiDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://youtube.com/@NobiDeveloper"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 <br>
