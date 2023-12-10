@@ -37,6 +37,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NobiDeveloper&" alt="NobiDeveloper" /></p>
 
+## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
+![](https://github-profile-trophy.vercel.app/?username=NobiDeveloper)
+
 ### DONATE 👇
 
 ![DONATE](https://telegra.ph/file/ce73268678bc5ff13c588.jpg)
