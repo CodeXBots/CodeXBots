@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ʜᴇʟʟᴏ+ᴍʏ+ɴᴀᴍᴇ+ɪꜱ+ɴᴏʙɪᴛᴀ+!;ᴀɴᴅ+ᴍʏ+ᴛᴇᴀᴍ+ɪꜱ+ɴᴏʙɪ+ᴅᴇᴠᴇʟᴏᴘᴇʀ+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗲𝗹𝗹𝗼+𝗶+𝗮𝗺+𝗡𝗼𝗯𝗶+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿!)
 </p>
 
 <p align="center">
@@ -14,13 +14,13 @@
 
 
 
-- 🔭 I’m currently working on [Tg Bot](https://telegram.me/BotszList)
+- 🔭 I’m currently working on [Tg Bot](https://telegram.me/NobiDeveloper)
 
 - 🌱 I’m currently learning **python, java**
 
 - 🤝 I’m looking for help with **Dev**
 
-- 👨‍💻 All of my projects are available [here](https://youtube.com/@MovieVillaYT)
+- 👨‍💻 All of my projects are available [here](https://youtube.com/@NobiDeveloper)
 
 - 💬 Ask me about **Bot issues**
 
