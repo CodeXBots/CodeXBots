@@ -22,7 +22,9 @@
 
 - 👨‍💻 All of my projects are available [here](https://youtube.com/@NobiDeveloper)
 
-- 💬 Ask me about **Bot issues**
+- 💬 Ask me about [Bot issues](https://telegram.me/NobiDeveloperSupport)
+
+- 📫 How to reach me [https://telegram.me/NobiDeveloperr](https://telegram.me/NobiDeveloperr)
 
 - ⚡ Fun fact **I think i am funny 😁**
 
