@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝑪𝒐𝒅𝒆𝑿𝑩𝒐𝒕𝒔">
+  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝘾𝙤𝙙𝙚𝙓𝘽𝙤𝙩𝙨">
 </p>
 <h1 align="center">
-  𝑪𝒐𝒅𝒆𝑿𝑩𝒐𝒕𝒔
+  𝘾𝙤𝙙𝙚𝙓𝘽𝙤𝙩𝙨
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
