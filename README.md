@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗛𝗲𝗹𝗹𝗼+𝗶+𝗮𝗺+𝗡𝗼𝗯𝗶+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿!)
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Rahul+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+BSC+PHY+HONS+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small+developer+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F" alt="Rahul" width="650" height="55">
+
 
 <p align="center">
   <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝙉𝙤𝙗𝙞  𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧">
