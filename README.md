@@ -25,9 +25,7 @@
 - 💬 Ask me about [Bot issues](https://telegram.me/CodeXSupport)
 
 - 📫 Reach me on <a href="https://telegram.me/CodeXBro"><img alt="Telegram" src="https://img.shields.io/badge/Rahul-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p> [https://telegram.me/CodeXBro](https://telegram.me/CodeXBro)
-
-- ⚡ Fun fact **I think i am funny 😁**
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
