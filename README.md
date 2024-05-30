@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝙉𝙤𝙗𝙞  𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧">
+  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝑪𝒐𝒅𝒆𝑿𝑩𝒐𝒕𝒔">
 </p>
 <h1 align="center">
-  𝙉𝙤𝙗𝙞  𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
+  𝑪𝒐𝒅𝒆𝑿𝑩𝒐𝒕𝒔
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
