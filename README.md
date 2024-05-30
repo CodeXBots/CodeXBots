@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝘾𝙤𝙙𝙚 𝙓 𝘽𝙤𝙩𝙨">
+  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝘾𝙤𝙙𝙚𝙓𝘽𝙤𝙩𝙨">
 </p>
 <h1 align="center">
-  𝘾𝙤𝙙𝙚 𝙓 𝘽𝙤𝙩𝙨
+  𝘾𝙤𝙙𝙚𝙓𝘽𝙤𝙩𝙨
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
@@ -24,7 +24,8 @@
 
 - 💬 Ask me about [Bot issues](https://telegram.me/CodeXSupport)
 
-- 📫 How to reach me [https://telegram.me/CodeXBro](https://telegram.me/CodeXBro)
+- 📫 Reach me on <a href="https://telegram.me/CodeXBro"><img alt="Telegram" src="https://img.shields.io/badge/Rahul-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p> [https://telegram.me/CodeXBro](https://telegram.me/CodeXBro)
 
 - ⚡ Fun fact **I think i am funny 😁**
 
