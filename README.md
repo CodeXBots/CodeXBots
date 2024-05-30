@@ -14,17 +14,17 @@
 
 
 
-- 🔭 I’m currently working on [Tg Bot](https://telegram.me/NobiDeveloper)
+- 🔭 I’m currently working on [Tg Bot](https://telegram.me/RahulReviews)
 
 - 🌱 I’m currently learning **python, java**
 
 - 🤝 I’m looking for help with **Dev**
 
-- 👨‍💻 All of my projects are available [here](https://youtube.com/@NobiDeveloper)
+- 👨‍💻 All of my projects are available [here](https://youtube.com/@RahulReviews)
 
-- 💬 Ask me about [Bot issues](https://telegram.me/NobiDeveloperSupport)
+- 💬 Ask me about [Bot issues](https://telegram.me/CodeXSupport)
 
-- 📫 How to reach me [https://telegram.me/NobiDeveloperr](https://telegram.me/NobiDeveloperr)
+- 📫 How to reach me [https://telegram.me/CodeXBro](https://telegram.me/CodeXBro)
 
 - ⚡ Fun fact **I think i am funny 😁**
 
