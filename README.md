@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on [Tg Bot](https://telegram.me/RahulReviews)
+- 🔭 I’m currently working on [Tg Bot](https://telegram.me/RahulReviewsYT)
 
 - 🌱 I’m currently learning **python, java**
 
