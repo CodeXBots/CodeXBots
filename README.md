@@ -42,7 +42,7 @@
 
 ### DONATE 👇
 
-![DONATE](https://telegra.ph/file/ce73268678bc5ff13c588.jpg)
+![DONATE](https://graph.org/file/63e178741bee853a29970.jpg)
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
