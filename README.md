@@ -18,8 +18,6 @@
 
 - 🌱 I’m currently learning **python, java**
 
-- 🤝 I’m looking for help with **Dev**
-
 - 👨‍💻 All of my projects are available [here](https://youtube.com/@RahulReviews)
 
 - 💬 Ask me about [Bot issues](https://telegram.me/CodeXSupport)
