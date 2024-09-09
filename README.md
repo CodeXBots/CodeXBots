@@ -38,7 +38,7 @@
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
 ![](https://github-profile-trophy.vercel.app/?username=CodeXBots)
 
-### DONATE 👇
+### [DONATE](https://codexbots.github.io/UPI)
 
 ![DONATE](https://envs.sh/b6o.jpg)
 
