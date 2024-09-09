@@ -40,7 +40,7 @@
 
 ### DONATE 👇
 
-![DONATE](https://graph.org/file/63e178741bee853a29970.jpg)
+![DONATE](https://envs.sh/b6o.jpg)
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
