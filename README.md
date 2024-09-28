@@ -33,6 +33,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeXBots&show_icons=true&locale=en" alt="CodeXBots"/></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeXBots&" alt="CodeXBots" /></p>
+
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
 ![](https://github-profile-trophy.vercel.app/?username=CodeXBots)
 
