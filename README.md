@@ -31,7 +31,7 @@
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeXBots&show_icons=true&locale=en&layout=compact" alt="CodeXBots"/></p>
 
-<p>&nbsp;<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=CodeXBots&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></p>
+<p>&nbsp;<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=CodeXBots&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=FFFFFF&title_color=F85D7F&icon_color=F8D866" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeXBots&" alt="CodeXBots" /></p>
 
