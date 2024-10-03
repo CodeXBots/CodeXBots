@@ -23,7 +23,7 @@
 
 
 
-![](https://visitcount.itsvg.in/api?id=CodeXBots)
+
 
 ## ➪ 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 & 𝗧𝗢𝗢𝗟𝗦
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
@@ -41,6 +41,8 @@
 <a href="https://www.instagram.com/RahulReviewsYT"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.telegram.me/RahulReviewsYT"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://youtube.com/@RahulReviews"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+<br>
+![](https://visitcount.itsvg.in/api?id=CodeXBots)
 <br>
 <br>
 <p align="center">
