@@ -1,18 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Rahul+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+small+developer+%F0%9F%93%88;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F" alt="Rahul" width="650" height="55">
 
 
-
-- 🔭 I’m currently working on [Tg Bot](https://telegram.me/RahulReviewsYT)
-
-- 🌱 I’m currently learning **python, java**
-
-- 👨‍💻 All of my projects are available [here](https://youtube.com/@RahulReviews)
-
-- 💬 Ask me about [Bot issues](https://telegram.me/CodeXSupport)
-
-- 📫 You can **contact me** on - <p><a href="https://www.telegram.me/CodeXBro"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
