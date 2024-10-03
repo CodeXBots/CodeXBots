@@ -1,18 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Rahul+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+small+developer+%F0%9F%93%88;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F" alt="Rahul" width="650" height="55">
 
 
-<p align="center">
-  <img src="https://graph.org/file/3b713bc7b34eafeaf4b4f.jpg" alt="𝘾𝙤𝙙𝙚𝙓𝘽𝙤𝙩𝙨">
-</p>
-<h1 align="center">
-  𝘾𝙤𝙙𝙚𝙓𝘽𝙤𝙩𝙨
-</h1>
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-
 
 - 🔭 I’m currently working on [Tg Bot](https://telegram.me/RahulReviewsYT)
 
