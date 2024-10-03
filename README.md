@@ -42,7 +42,6 @@
 <a href="https://youtube.com/@RahulReviews"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 <br>
-<br>
 <p align="center">
 𝚃𝙷𝙰𝙽𝙺𝚈𝙾𝚄 𝙵𝙾𝚁 𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
 </p>
