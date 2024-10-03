@@ -42,7 +42,6 @@
 <a href="https://youtube.com/@RahulReviews"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 <br>
-![](https://visitcount.itsvg.in/api?id=CodeXBots)
 <br>
 <br>
 <p align="center">
